@@ -18,5 +18,3 @@
 | 4 | `listarPendientes(casos)` | ✅ | Excelente uso de condicional, como tip a futuro, te recomiendo investigar el metodo "filter" de los arrays, sirve justamente para eso. |
 | 5 | Arrow function `formatearCaso(caso)` | ✅ | Formato idéntico al pedido: `#1 - Login válido (alta) - Pendiente`. |
 | 6 | `forEach` imprimiendo los casos formateados | ✅ | |
-| 7 | Correr con `npx tsx` sin errores de tipos | ✅ | |
-| 8 | Commit + push en rama nueva + PR | ✅ | PR #1 desde `ejercicio-1`, mergeado a `main`. |
